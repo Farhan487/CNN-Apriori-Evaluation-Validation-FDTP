@@ -1,6 +1,5 @@
 # CNN-Apriori-Evaluation-Validation-FDTP
 
-# Food Delivery Time Prediction Project
 
 ## 📋 Overview
 This project predicts whether food deliveries will be "Fast" or "Delayed" based on factors like distance, weather, traffic, and delivery person experience. It helps restaurants and delivery services optimize their operations.
